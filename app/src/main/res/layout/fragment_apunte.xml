@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvAgregar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/funo"
+        android:text="APUNTES"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvLeer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/funo"
+        android:text="Cargar Apuntes"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnGuardar2" />
+
+    <EditText
+        android:id="@+id/etTitulo2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="12dp"
+        android:ems="10"
+        android:hint="Titulo"
+        android:textAlignment="center"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#757575"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvAgregar" />
+
+
+    <EditText
+        android:id="@+id/etDescripcion2"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:hint="Descripcion"
+        android:importantForAutofill="no"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etTitulo2"
+
+        />
+
+
+    <ImageButton
+        android:id="@+id/btnGuardar2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="152dp"
+        android:layout_marginTop="64dp"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:src="@drawable/ic_baseline_person_add_24"
+        android:text="Guardar Apuntes"
+        android:textAllCaps="false"
+        android:textColor="#FFEB3B"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/etDescripcion2"
+        tools:ignore="TextContrastCheck" />
+
+    <ImageButton
+        android:id="@+id/btnLeer2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:src="@drawable/ic_baseline_person_24"
+        android:text="Cargar el archivo"
+        android:textAllCaps="false"
+        android:textColor="#FFEB3B"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lstNombres1"
+        tools:ignore="TextContrastCheck" />
+
+    <ImageButton
+        android:id="@+id/btnMostrar2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+        android:src="@drawable/ic_baseline_person_search_24"
+        android:text="Mostrar Apuntes"
+        android:textAllCaps="false"
+        android:textColor="#FFEB3B"
+        app:layout_constraintStart_toEndOf="@+id/btnLeer2"
+        app:layout_constraintTop_toBottomOf="@+id/lstNombres1"
+        tools:ignore="TextContrastCheck" />
+
+    <Spinner
+        android:id="@+id/lstNombres1"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="28dp"
+        android:contentDescription="lista de Apuntes"
+        android:minHeight="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvLeer2" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="376dp"
+        app:layout_constraintEnd_toEndOf="@+id/etTitulo2"
+        app:layout_constraintTop_toBottomOf="@+id/tvAgregar"
+        app:srcCompat="@drawable/ic_baseline_title_24" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="376dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etTitulo2"
+        app:srcCompat="@drawable/ic_baseline_note_add_24" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

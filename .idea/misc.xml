@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TRABAJOSAndroid/CLASES2/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.1828125" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1935" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.1905" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/ic_baseline_person_search_24.xml" value="0.1905" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/ic_baseline_schedule_24.xml" value="0.1905" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/directory_item.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.25" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.33" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_directory.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_recursos.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/item_apunte.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/MisClase/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/rename_layout.xml" value="0.3625" />
+        <entry key="..\:/TRABAJOSAndroid/misprocesos/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/bg_color.xml" value="0.1615" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.1615" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.22" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.2" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_recursos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Carlos Mendoza/Desktop/mp/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dylan/Desktop/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_horario.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_horario.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.33" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_editar_horario.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.25" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.26875" />
+        <entry key="..\:/Users/Dylan/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.26875" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_agregar_horarios.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_contacto.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_horario.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_inicio.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_recurso.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_recursos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/MSclases/app/src/main/res/layout/fragment_splash.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/Desktop/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/derecha.xml" value="0.1265" />
+        <entry key="..\:/Users/Junior/Desktop/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_apunte.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/Desktop/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/Desktop/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/item_apunte.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable/border.xml" value="0.17" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.25" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Final/-Proyecto-Moviles-Ghost-coder/app/src/main/res/xml/border.xml" value="0.2234375" />
+        <entry key="..\:/Users/Junior/Desktop/Nueva carpeta/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Nueva carpeta/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_contacto.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_horario.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_recurso.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proceso/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/item_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable-v24/ic_baseline_create_new_folder_24.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable-v24/ic_create_new_folder_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable-v24/ic_file_black_24dp.xml" value="0.171" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable-v24/ic_folder_black_24dp.xml" value="0.1015" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/drawable-v24/ic_folder_open_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_recursos.xml" value="0.13763661202185792" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/directory_item.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_directory.xml" value="0.2234375" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_horario.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_recurso.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_recursos.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/rename_layout.xml" value="0.2234375" />
+        <entry key="..\:/Users/Junior/Desktop/Proyecto/-Proyecto-Moviles-Ghost-coder/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/Junior/Desktop/Supervisar/Prueba/app/src/main/res/layout/fragment_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/Supervisar/Prueba/app/src/main/res/layout/fragment_contacto.xml" value="0.2108843537414966" />
+        <entry key="..\:/Users/Junior/Desktop/Supervisar/Prueba/app/src/main/res/layout/fragment_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Junior/Desktop/confirmar/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/confirmar/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_agregar_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/confirmar/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_apunte.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/confirmar/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_contacto.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Junior/Desktop/confirmar/-Proyecto-Moviles-Ghost-coder/app/src/main/res/layout/fragment_splash.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color"
+    tools:context=".Menu">
+
+    <TextView
+        android:id="@+id/tvMisClases"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/funo"
+        android:text="@string/mis_clasess"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-2dp" />
+
+    <LinearLayout
+        android:id="@+id/lhorario"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10sp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvMisClases">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:src="@drawable/ic_baseline_calendar_today_24" />
+
+        <ImageView
+            android:id="@+id/btnHorario"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:src="@drawable/calendario"
+          />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lApunte"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@id/lContacto"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lhorario">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:src="@drawable/ic_baseline_note_add_24" />
+
+        <ImageView
+            android:id="@+id/btnApuntes"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:src="@drawable/apuntes"
+            android:scaleType="matrix" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lContacto"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@id/lRecursos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lApunte">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:src="@drawable/ic_baseline_contacts_24" />
+
+        <ImageView
+            android:id="@+id/btnContactos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/contactos"
+            android:background="@drawable/border"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lRecursos"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lContacto">
+
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:src="@drawable/ic_outline_cloud_download_24" />
+
+        <ImageView
+            android:id="@+id/btnRecursos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/archivos"
+            android:background="@drawable/border"/>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

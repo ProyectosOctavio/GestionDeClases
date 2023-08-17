@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_grahp"
+    app:startDestination="@id/splash">
+    <fragment
+        android:id="@+id/splash"
+        android:name="ni.edu.uca.msclases.Splash"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splash_to_menu"
+            app:destination="@id/menu" />
+    </fragment>
+    <fragment
+        android:id="@+id/menu"
+        android:name="ni.edu.uca.msclases.Menu"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+
+
+        <action
+            android:id="@+id/action_menu_to_horario"
+            app:destination="@id/horario" />
+        <action
+            android:id="@+id/action_menu_to_apunte"
+            app:destination="@id/apunte" />
+        <action
+            android:id="@+id/action_menu_to_contacto"
+            app:destination="@id/contacto" />
+        <action
+            android:id="@+id/action_menu_to_recursos"
+            app:destination="@id/recursos" />
+    </fragment>
+    <fragment
+        android:id="@+id/horario"
+        android:name="ni.edu.uca.msclases.Horarios.Horario"
+        android:label="fragment_horario"
+        tools:layout="@layout/fragment_horario" />
+    <fragment
+        android:id="@+id/apunte"
+        android:name="ni.edu.uca.msclases.Apuntes.Apunte"
+        android:label="fragment_apunte"
+        tools:layout="@layout/fragment_apunte" />
+    <fragment
+        android:id="@+id/contacto"
+        android:name="ni.edu.uca.msclases.Contactos.contacto"
+        android:label="fragment_contacto"
+        tools:layout="@layout/fragment_contacto" />
+    <fragment
+        android:id="@+id/recursos"
+        android:name="ni.edu.uca.msclases.Gestor.recursos"
+        android:label="fragment_recursos"
+        tools:layout="@layout/fragment_recursos" />
+</navigation>
